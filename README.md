@@ -44,7 +44,7 @@ ros2 topic pub /turtle1/cmd_vel geometry_msgs/msg/Twist "{linear: {x: 2.0, y: 0.
 ros2 run my_package square_drawer
 
 ### Screenshots
-![Square](images/Square)
+![Square](images/Square.png)
 [Square Video](https://drive.google.com/file/d/1Xuo3SNPzxPFW5p5RtYpKC2yb540wF5ub/view?usp=sharing)
 
 ## Repository Contents
